@@ -14,5 +14,4 @@ Me chamo Isaac, tenho 19 anos. Desde que comecei a estudar programação sempre 
 ## Contato
 
 - **GitHub:** [Isaacx1122](https://github.com/Isaacx1122)
-
-- e essa é minha contribuição no codigo open source no GitHub!!
+- **Linkedin** (https://www.linkedin.com/in/isaac-albuquerque-a9aa963b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcxmBI4hLQdeW65v%2Bwxs09w%3D%3D)
