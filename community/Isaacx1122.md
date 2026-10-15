@@ -7,9 +7,13 @@ Ola! Sou estudante de engenharia de software na Uninter
 Me chamo Isaac, tenho 19 anos. Desde que comecei a estudar programação sempre busquei ampliar meus conhecimentos, quando encontrei esse curso foi uma ótima oportunidade de aprendizagem e estou gostando muito!
 
 ## Tecnologias
+ *essas são algumas máterias que ja vi na minha faculdade*
 
 - Atualmente meu foco está em python
-- Utilizo o vs code como ferramenta
+- SQL
+- Java Script
+- Análise e modelagem de sistemas
+
 
 ## Contato
 
